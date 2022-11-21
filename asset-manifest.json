@@ -1,15 +1,15 @@
 {
-  "main.css": "/jatinnandanwar/TextUtils/static/css/main.ffde95b4.chunk.css",
-  "main.js": "/jatinnandanwar/TextUtils/static/js/main.9be035ac.chunk.js",
-  "main.js.map": "/jatinnandanwar/TextUtils/static/js/main.9be035ac.chunk.js.map",
-  "static/js/1.bfaef02f.chunk.js": "/jatinnandanwar/TextUtils/static/js/1.bfaef02f.chunk.js",
-  "static/js/1.bfaef02f.chunk.js.map": "/jatinnandanwar/TextUtils/static/js/1.bfaef02f.chunk.js.map",
-  "static/js/2.e80c7fae.chunk.js": "/jatinnandanwar/TextUtils/static/js/2.e80c7fae.chunk.js",
-  "static/js/2.e80c7fae.chunk.js.map": "/jatinnandanwar/TextUtils/static/js/2.e80c7fae.chunk.js.map",
-  "runtime~main.js": "/jatinnandanwar/TextUtils/static/js/runtime~main.309dfc94.js",
-  "runtime~main.js.map": "/jatinnandanwar/TextUtils/static/js/runtime~main.309dfc94.js.map",
-  "static/css/main.ffde95b4.chunk.css.map": "/jatinnandanwar/TextUtils/static/css/main.ffde95b4.chunk.css.map",
-  "index.html": "/jatinnandanwar/TextUtils/index.html",
-  "precache-manifest.5a9e8ed4da43465e133da4f38fe001c2.js": "/jatinnandanwar/TextUtils/precache-manifest.5a9e8ed4da43465e133da4f38fe001c2.js",
-  "service-worker.js": "/jatinnandanwar/TextUtils/service-worker.js"
+  "main.css": "/TextUtils/static/css/main.ffde95b4.chunk.css",
+  "main.js": "/TextUtils/static/js/main.9be035ac.chunk.js",
+  "main.js.map": "/TextUtils/static/js/main.9be035ac.chunk.js.map",
+  "static/js/1.bfaef02f.chunk.js": "/TextUtils/static/js/1.bfaef02f.chunk.js",
+  "static/js/1.bfaef02f.chunk.js.map": "/TextUtils/static/js/1.bfaef02f.chunk.js.map",
+  "static/js/2.e80c7fae.chunk.js": "/TextUtils/static/js/2.e80c7fae.chunk.js",
+  "static/js/2.e80c7fae.chunk.js.map": "/TextUtils/static/js/2.e80c7fae.chunk.js.map",
+  "runtime~main.js": "/TextUtils/static/js/runtime~main.4cb78b98.js",
+  "runtime~main.js.map": "/TextUtils/static/js/runtime~main.4cb78b98.js.map",
+  "static/css/main.ffde95b4.chunk.css.map": "/TextUtils/static/css/main.ffde95b4.chunk.css.map",
+  "index.html": "/TextUtils/index.html",
+  "precache-manifest.a025094c1b4caa180b0ad57a3b24acee.js": "/TextUtils/precache-manifest.a025094c1b4caa180b0ad57a3b24acee.js",
+  "service-worker.js": "/TextUtils/service-worker.js"
 }

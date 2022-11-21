@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jatinnandanwar/TextUtils/precache-manifest.5a9e8ed4da43465e133da4f38fe001c2.js"
+  "/TextUtils/precache-manifest.a025094c1b4caa180b0ad57a3b24acee.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jatinnandanwar/TextUtils/index.html", {
+workbox.routing.registerNavigationRoute("/TextUtils/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
